@@ -128,8 +128,6 @@ The findings support the claim that adaptive fusion is a valuable design princip
 
 The workspace contains the following main components:
 
-- [main.tex](main.tex) — the LaTeX source for the research paper.
-- [Bitcoin_Research_Proposal.pdf](Bitcoin_Research_Proposal.pdf) — the research proposal document.
 - [data/](data/) — input datasets and processed CSV files.
 - [results/](results/) — generated results, feature tables, and labeled datasets.
 - [processing/](processing/) — notebooks for data preprocessing and feature engineering.
