@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xelatex -interaction=nonstopmode main.tex)",
+      "Read(//mnt/c/**)",
+      "Read(//mnt/c/Users/Abdullah/AppData/Local/Programs/**)",
+      "Bash(cmd.exe /c \"where xelatex 2>nul\")",
+      "Bash(cmd.exe /c \"where xelatex\")",
+      "Bash(cmd.exe /c \"where pdflatex\")",
+      "Bash(cmd.exe /c \"dir C:\\\\texlive\\\\*\\\\bin\\\\win32\\\\xelatex.exe /s /b 2>nul\")",
+      "Bash(cmd.exe /c \"dir C:\\\\Users\\\\Abdullah\\\\AppData\\\\*\\\\xelatex.exe /s /b 2>nul\")",
+      "Bash(powershell.exe *)"
+    ]
+  }
+}
